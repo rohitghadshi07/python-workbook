@@ -1,0 +1,18 @@
+Learned 
+git .init
+git status
+git add . or git add name.txt
+git commit -m(message) "text message"
+
+rm -rf name.txt(to remove the file)
+git restore --staged name.txt
+(restore the file changes from .add to untracked file )
+
+
+git reset version_id
+git log(to check log history)
+
+git stash
+git stash pop
+
+
